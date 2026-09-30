@@ -11,7 +11,7 @@ and state-wise sales.
 
 ## 📷 Dashboard Preview
 
-![Super Store Dashboard](./Screenshots/Super-Store-Dashboard.png)
+![Super Store Dashboard](./Super-Store-Dashboard.png)
 
 ## 📈 Key Performance Indicators
 
