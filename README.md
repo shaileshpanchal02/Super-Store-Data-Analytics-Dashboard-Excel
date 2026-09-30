@@ -1,4 +1,4 @@
-# Super Store Data Analytics Dashboard
+# Super Store Data Analytics Dashboard Excel
 
 ## 📊 Project Overview
 
