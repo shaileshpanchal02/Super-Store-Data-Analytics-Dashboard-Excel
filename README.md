@@ -1,2 +1,66 @@
-# Super-Store-Data-Analytics-Dashboard
-Interactive Excel dashboard for Super Store sales, profit and order analysis.
+# Super Store Data Analytics Dashboard
+
+## 📊 Project Overview
+
+This project is an interactive Excel Data Analytics Dashboard
+created to analyze Super Store business performance.
+
+The dashboard provides insights into sales, profit, orders,
+segments, regions, shipping modes, monthly performance,
+and state-wise sales.
+
+## 📷 Dashboard Preview
+
+![Super Store Dashboard](./Screenshots/Super-Store-Dashboard.png)
+
+## 📈 Key Performance Indicators
+
+- Total Sales
+- Total Profit
+- Total Orders
+
+## 🔍 Dashboard Analysis
+
+The dashboard provides analysis of:
+
+- Sales by Region
+- Sales by Segment
+- Sales by Ship Mode
+- Sales by Priority
+- Monthly Sales Performance
+- State-wise Sales
+- Year-wise Performance
+- Month-wise Performance
+
+## 🎛️ Interactive Filters
+
+Users can filter the dashboard by:
+
+- Year
+- Month
+- Segment
+
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- Excel Charts
+- Pivot Tables
+- Pivot Charts
+- Data Analysis
+- Data Visualization
+
+## Author
+Shailesh Panchal
+
+## 📂 Project Structure
+
+```text
+Super-Store-Data-Analytics-Dashboard/
+│
+├── README.md
+├── Dashboard/
+│   └── Super-Store-Data-Analytics-Dashboard.xlsx
+├── Dataset/
+│   └── Super-Store-Dataset.xlsx
+└── Screenshots/
+    └── Super-Store-Dashboard.png
