@@ -49,18 +49,28 @@ Users can filter the dashboard by:
 - Data Analysis
 - Data Visualization
 
-## Author
+🎯 Objective
+
+The objective of this project is to transform raw Super Store
+data into an interactive dashboard that helps users understand
+sales and profitability patterns and explore business performance
+using different filters.
+
+👨‍💻 Project Author
+
 Shailesh Panchal
 
 ## 📂 Project Structure
 
-```text
 Super-Store-Data-Analytics-Dashboard/
 │
 ├── README.md
+│
 ├── Dashboard/
 │   └── Super-Store-Data-Analytics-Dashboard.xlsx
+│
 ├── Dataset/
 │   └── Super-Store-Dataset.xlsx
+│
 └── Screenshots/
     └── Super-Store-Dashboard.png
